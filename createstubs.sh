@@ -36,6 +36,7 @@ createstub asciichartpy
 createstub networkx
 createstub boolean
 createstub IPython
+createstub openai
 
 
 if [ ! -d "typings/gym" ]; then
